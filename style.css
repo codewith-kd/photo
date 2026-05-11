@@ -1,0 +1,18 @@
+.gorila{
+   display: flex;
+   justify-content: center;
+   margin-top: 40px;
+   text-align: center;
+   height: 200px;
+   width: 400px;
+   background-color: pink;
+   color: black;
+   
+}
+a{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
